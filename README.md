@@ -1,0 +1,2 @@
+# dailyquote
+Random daily quotes
