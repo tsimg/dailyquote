@@ -1,8 +1,11 @@
-name: Daily Slack Quote
+name: Slack Quote Bot
 
 on:
   schedule:
-    - cron: "0 22 * * 1-5"
+    # Check every 30 minutes in a UTC window that covers 9am–5pm Adelaide
+    # We include Sun+Mon UTC to catch Monday (local), and Thu+Fri UTC to catch Friday (local).
+    - cron: "0,30 22-23,0-8 * * 0,1"
+    - cron: "0,30 22-23,0-8 * * 4,5"
   workflow_dispatch:
 
 jobs:
@@ -18,3 +21,4 @@ jobs:
         env:
           SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
           SLACK_CHANNEL: ${{ secrets.SLACK_CHANNEL }}
+          SCHEDULE_SEED: ${{ secrets.SCHEDULE_SEED }}
