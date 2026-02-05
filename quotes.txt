@@ -1,380 +1,79 @@
-“Success is not final, failure is not fatal: it is the courage to continue that counts.” - Winston Churchill
-“What you get by achieving your goals is not as important as what you become by achieving your goals.” - Zig Ziglar
-“The way to get started is to quit talking and begin doing.” - Walt Disney
-“Success usually comes to those who are too busy to be looking for it.” - Henry David Thoreau
-“Don’t be afraid to give up the good to go for the great.” - John D. Rockefeller
-“I find that the harder I work, the more luck I seem to have.” - Thomas Jefferson
-“Opportunities don't happen. You create them.” - Chris Grosser
-“Success is walking from failure to failure with no loss of enthusiasm.” - Winston Churchill
-“The only place where success comes before work is in the dictionary.” - Vidal Sassoon
-“If you are not willing to risk the usual, you will have to settle for the ordinary.” - Jim Rohn
-“The future belongs to those who believe in the beauty of their dreams.” - Eleanor Roosevelt
-“Try not to become a person of success, but rather try to become a person of value.” - Albert Einstein
-“Great things are done by a series of small things brought together.” - Vincent Van Gogh
-“Success is the sum of small efforts repeated day in and day out.” - Robert Collier
-“Action is the foundational key to all success.” - Pablo Picasso
-“Dream big and dare to fail.” - Norman Vaughan
-“You miss 100% of the shots you don’t take.” - Wayne Gretzky
-“The secret of success is to do the common thing uncommonly well.” - John D. Rockefeller Jr.
-“Success is not how high you have climbed, but how you make a positive difference to the world.” - Roy T. Bennett
-“Do not wait to strike till the iron is hot; but make it hot by striking.” - William Butler Yeats
-“It always seems impossible until it’s done.” - Nelson Mandela
-“Hardships often prepare ordinary people for an extraordinary destiny.” - C.S. Lewis
-“Success isn’t overnight. It’s when every day you get a little better than the day before.” - Dwayne Johnson
-“The successful warrior is the average person, with laser-like focus.” - Bruce Lee
-“Work hard in silence, let your success be your noise.” - Frank Ocean
-“The man who moves a mountain begins by carrying away small stones.” - Confucius
-“Don’t watch the clock; do what it does. Keep going.” - Sam Levenson
-“Ambition is the path to success. Persistence is the vehicle you arrive in.” - Bill Bradley
-“Success is getting what you want. Happiness is wanting what you get.” - Dale Carnegie
-“There are no shortcuts to any place worth going.” - Beverly Sills
-“You don’t have to be great to start, but you have to start to be great.” - Zig Ziglar
-“Discipline is the bridge between goals and accomplishment.” - Jim Rohn
-“The difference between ordinary and extraordinary is that little extra.” - Jimmy Johnson
-“Success is built sequentially. It’s one thing at a time.” - Gary Keller
-“A goal is a dream with a deadline.” - Napoleon Hill
-“Motivation is what gets you started. Habit is what keeps you going.” - Jim Ryun
-“If you can dream it, you can do it.” - Walt Disney
-“The harder the conflict, the greater the triumph.” - George Washington
-“Small daily improvements over time lead to stunning results.” - Robin Sharma
-“Success is a lousy teacher. It seduces smart people into thinking they can’t lose.” - Bill Gates
-“Focus on being productive instead of busy.” - Tim Ferriss
-“You learn more from failure than from success.” - Unknown
-“If people are doubting how far you can go, go so far that you can’t hear them anymore.” - Michele Ruiz
-“Success demands singleness of purpose.” - Vince Lombardi
-“The best way to predict the future is to create it.” - Peter Drucker
-“The road to success and the road to failure are almost exactly the same.” - Colin R. Davis
-“Excellence is not a skill, it is an attitude.” - Ralph Marston
-“Chase the vision, not the money; the money will end up following you.” - Tony Hsieh
-“Success is simple. Do what’s right, the right way, at the right time.” - Arnold H. Glasow
-“The only limit to our realization of tomorrow is our doubts of today.” - Franklin D. Roosevelt
-“What seems to us as bitter trials are often blessings in disguise.” - Oscar Wilde
-“Success doesn’t come from what you do occasionally, it comes from what you do consistently.” - Marie Forleo
-“The key to success is to focus on goals, not obstacles.” - Unknown
-“Success is the progressive realization of a worthy goal.” - Earl Nightingale
-“Energy and persistence conquer all things.” - Benjamin Franklin
-“If you want to achieve greatness stop asking for permission.” - Unknown
-“Victory is sweetest when you’ve known defeat.” - Malcolm S. Forbes
-“Failure is simply the opportunity to begin again, this time more intelligently.” - Henry Ford
-“Success is liking yourself, liking what you do, and liking how you do it.” - Maya Angelou
-“Don’t limit your challenges. Challenge your limits.” - Unknown
-“To succeed, your desire for success should be greater than your fear of failure.” - Bill Nosby
-“Success is not in what you have, but who you are.” - Bo Bennett
-“The price of success is hard work, dedication, and determination.” - Vince Lombardi
-“If you are persistent, you will get it. If you are consistent, you will keep it.” - Harvey Mackay
-“Success is earned, never given.” - Unknown
-“Your life does not get better by chance, it gets better by change.” - Jim Rohn
-“The secret of getting ahead is getting started.” - Mark Twain
-“Success requires sacrifice.” - Unknown
-“Clarity precedes success.” - Robin Sharma
-“Do something today that your future self will thank you for.” - Unknown
-“The only failure is not to try.” - George Clooney
-“The successful person will profit from their mistakes and try again in a different way.” - Dale Carnegie
-“Success is a journey, not a destination.” - Arthur Ashe
-“Fall seven times and stand up eight.” - Japanese Proverb
-“Don’t be busy, be productive.” - Unknown
-“Success is found in your daily routine.” - John C. Maxwell
-“If you’re going through hell, keep going.” - Winston Churchill
-“The difference between who you are and who you want to be is what you do.” - Unknown
-“Work gives you meaning and purpose.” - Stephen Hawking
-“The best revenge is massive success.” - Frank Sinatra
-“Success is doing what you love and loving what you do.” - Unknown
-“You cannot climb the ladder of success with your hands in your pockets.” - Arnold Schwarzenegger
-“Every accomplishment starts with the decision to try.” - John F. Kennedy
-“The will to win means nothing without the will to prepare.” - Juma Ikangaa
-“Great achievement is born of great sacrifice.” - Unknown
-“Success comes down to knowing your priorities and protecting them.” - Unknown
-“If you want to be successful, find out what the price is and then pay it.” - Scott Adams
-“The disciplined pursuit of less, but better.” - Greg McKeown
-“Success is built on preparation, persistence, and passion.” - Unknown
-“Don’t wish it were easier; wish you were better.” - Jim Rohn
-“Achievement seems to be connected with action.” - Conrad Hilton
-“Success favors the bold.” - Virgil
-“The best view comes after the hardest climb.” - Unknown
-“Success is the reward for perseverance.” - Sophocles
-“The pain you feel today will be the strength you feel tomorrow.” - Unknown
-“Success begins with self-discipline.” - Unknown
-“Work until your idols become your rivals.” - Drake
-“What you do today can improve all your tomorrows.” - Ralph Marston
-“The harder you work for something, the greater you’ll feel when you achieve it.” - Unknown
-“Success is never owned; it is rented, and the rent is due every day.” - Rory Vaden
-"Done is better than perfect." – Someone Who Finished
-"Small steps still count." – The Long Game
-"Progress beats drama." – Past Experience
-"You don’t have to solve everything today." – Future You
-"Make it work first." – Practical Wisdom
-"Consistency compounds quietly." – The Maths of Life
-"Clear beats clever." – Every Debugger Ever
-"Start simple and adjust." – Version 1.0
-"Forward is forward." – Basic Physics
-"Good systems beat heroic effort." – Burnt Out Once
-"Calm is productive." – Someone Who Slept
-"One useful thing is enough." – Realistic Expectations
-"You can pause without quitting." – Common Sense
-"Make it boring and reliable." – Operations
-"Not everything needs urgency." – The Calendar
-"Progress rarely looks impressive." – Reality
-"Finish one thing." – The Open Tabs Police
-"Clarity comes from doing." – Trial and Error
-"Work at a pace you can repeat." – Future Sanity
-"Reduce friction first." – Lazy But Smart
-"Make today slightly better." – Marginal Gains
-"Focus beats frenzy." – Someone Calm
-"Good enough moves things forward." – Experience
-"You’re allowed to simplify." – Permission Granted
-"Momentum is built, not forced." – Gravity
-"Optimise later." – Iteration
-"Reliable beats exciting." – Production Systems
-"Some days are for maintenance." – Reality Check
-"Action creates clarity." – Learned the Hard Way
-"You don’t need intensity." – Sustainable Effort
-"Clear goals save energy." – Battery Management
-"Do the obvious thing first." – Every Retrospective
-"You can change your mind." – New Information
-"Progress happens quietly." – No Announcements Needed
-"Make it useful before impressive." – First Principles
-"Think long term, act today." – Calm Strategy
-"Most problems shrink when written down." – Pen and Paper
-"Less noise helps." – Muted Notifications
-"You don’t have to win the day." – Tuesday
-"Steady effort adds up." – Compound Interest
-"Build something maintainable." – Future Maintenance
-"You can be productive without suffering." – Radical Thought
-"Structure reduces stress." – The To-Do List
-"Effective beats flashy." – Results
-"Start where you are." – Reality
-"Progress doesn’t need applause." – Quiet Satisfaction
-"Good decisions age well." – Time
-"Keep it moving." – Momentum
-"You’re not behind." – The Actual Timeline
-"Finish lines matter." – Closure
-"Some progress is better than none." – Arithmetic
-"Calm progress lasts longer." – Experience
-"Make the next step easier." – You Tomorrow
-"Work that lasts is usually boring." – Infrastructure
-"You don’t need permission." – Go Ahead
-"Focus makes things lighter." – Mental Load
-"Clarity reduces unnecessary work." – Fewer Meetings
-"Reliable habits beat bursts." – Monday Morning
-"You can adjust as you go." – Steering Wheel
-"Progress is allowed to be unremarkable." – Normal Life
-"Do less, better." – Sensible Advice
-"Make it simpler than you think." – Hard-Won Wisdom
-"Consistency is easier than intensity." – Sustainability
-"Today can just be useful." – Good Enough
-"One clear task is plenty." – Attention Span
-"Think clearly, then act." – Order of Operations
-"Maintenance is real work." – Still Counts
-"Progress doesn’t need a speech." – Carry On
-"Good work is usually quiet." – Experience
-"Most progress comes from showing up consistently." – Observation
-"Work improves when it is understood clearly." – Practice
-"Reliability matters more than brilliance." – Operations
-"Clarity reduces wasted effort." – First Principles
-"Effective work is often unremarkable." – Reality
-"Long-term results come from steady decisions." – Time
-"Understanding the problem saves time later." – Engineering Wisdom
-"Most things benefit from being simpler." – Design Practice
-"Progress is made through accumulation." – Experience
-"Good judgement develops through repetition." – Practice
-"Clear communication prevents unnecessary work." – Management
-"Focus is a limited resource." – Attention Economics
-"Consistency is a professional skill." – Experience
-"Well-defined goals reduce friction." – Planning
-"Sound decisions age better than fast ones." – Perspective
-"Good systems reduce the need for urgency." – Operations
-"Work that lasts is built carefully." – Craft
-"Stability enables progress." – Observation
-"Maintenance is part of productive work." – Reality
-"Clear priorities simplify decisions." – Management
-"Effective solutions are often straightforward." – Engineering
-"Accuracy matters more than speed in the long run." – Experience
-"Good work scales through process, not effort." – Operations
-"Progress often looks slow before it looks successful." – Time
-"Careful thinking reduces rework." – Practice
-"Professionalism shows in consistency." – Observation
-"Most problems are clarified by writing them down." – Habit
-"Sound planning reduces unnecessary stress." – Experience
-"Reliable execution builds trust." – Practice
-"Complexity should earn its place." – Engineering Principle
-"Work improves when assumptions are examined." – Analysis
-"Good outcomes are usually the result of many small choices." – Perspective
-"Focus improves quality." – Observation
-"Clear boundaries support sustained effort." – Experience
-"Quality work is repeatable." – Operations
-"Progress depends on follow-through." – Practice
-"Simple processes are easier to maintain." – Systems Thinking
-"Good work respects constraints." – Engineering
-"Consistency enables improvement." – Experience
-"Clear documentation saves time." – Reality
-"Understanding context improves decisions." – Practice
-"Effective work balances speed and care." – Judgement
-"Planning reduces uncertainty." – Management
-"Professional habits compound." – Time
-"Good work often involves revision." – Craft
-"Reliable processes reduce error." – Operations
-"Clarity improves collaboration." – Observation
-"Thoughtful work reduces downstream effort." – Experience
-"Progress depends on sustained attention." – Practice
-"Good decisions are usually informed decisions." – Analysis
-"Careful preparation improves execution." – Experience
-"Work benefits from realistic expectations." – Perspective
-"Consistency builds capability." – Practice
-"Quality is maintained through discipline." – Observation
-"Good work is easier to support than fix." – Operations
-"Clear structure supports complex work." – Systems Thinking
-"Progress is supported by routine." – Experience
-"Effective effort is directed effort." – Practice
-"Good outcomes reflect good process." – Observation
-"Work improves when it is reviewed." – Experience
-"Clarity reduces unnecessary motion." – Lean Thinking
-"Quality is not an act, it is a habit." – Aristotle
-"Well begun is half done." – Aristotle
-"The best way out is always through." – Robert Frost
-"Plans are nothing; planning is everything." – Dwight D. Eisenhower
-"What gets measured gets managed." – Peter Drucker
-"Efficiency is doing things right; effectiveness is doing the right things." – Peter Drucker
-"Simplicity is the ultimate sophistication." – Leonardo da Vinci
-"The details are not the details. They make the design." – Charles Eames
-"Good judgment comes from experience." – Rita Mae Brown
-"An investment in knowledge pays the best interest." – Benjamin Franklin
-"By failing to prepare, you are preparing to fail." – Benjamin Franklin
-"The essence of strategy is choosing what not to do." – Michael Porter
-"Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away." – Antoine de Saint-Exupéry
-"Nothing is particularly hard if you divide it into small jobs." – Henry Ford
-"Work expands so as to fill the time available for its completion." – C. Northcote Parkinson
-"Amateurs sit and wait for inspiration, the rest of us just get up and go to work." – Stephen King
-"Chance favours the prepared mind." – Louis Pasteur
-"Make everything as simple as possible, but not simpler." – Albert Einstein
-"The best work is done with a clear mind." – Marcus Aurelius
-"Waste no more time arguing what a good man should be. Be one." – Marcus Aurelius
-"Discipline is choosing between what you want now and what you want most." – Abraham Lincoln
-"Well done is better than well said." – Benjamin Franklin
-"The more you know, the more you realise you don’t know." – Aristotle
-"To improve is to change; to be perfect is to change often." – Winston Churchill
-"Success is the ability to go from one failure to another with no loss of enthusiasm." – Winston Churchill
-"Work gives you meaning and purpose, and life is empty without it." – Stephen Hawking
-"Do the best you can until you know better. Then when you know better, do better." – Maya Angelou
-"Small deeds done are better than great deeds planned." – Peter Marshall
-"The function of leadership is to produce more leaders, not more followers." – Ralph Nader
-"Knowledge speaks, but wisdom listens." – Jimi Hendrix
-"The only way to do great work is to love what you do." – Steve Jobs
-"Details create the big picture." – Sanford Weill
-"Without data, you’re just another person with an opinion." – W. Edwards Deming
-"Quality means doing it right when no one is looking." – Henry Ford
-"It is not that we have a short time to live, but that we waste a lot of it." – Seneca
-"Luck is what happens when preparation meets opportunity." – Seneca
-"The willingness to accept responsibility is the mark of a professional." – Ayn Rand
-"Skill comes from doing." – Virgil
-"One learns by doing the thing." – Eleanor Roosevelt
-"The secret of getting things done is acting." – Dante Alighieri
-"Work hard in silence, let success make the noise." – Frank Ocean
-"Be slow to promise and quick to perform." – Confucius
-"The man who moves a mountain begins by carrying away small stones." – Confucius
-"Care and diligence bring luck." – Thomas Fuller
-"The best preparation for good work tomorrow is to do good work today." – Elbert Hubbard
-"Knowing is not enough; we must apply." – Johann Wolfgang von Goethe
-"Action is the foundational key to all success." – Pablo Picasso
-"Done is better than perfect." – Sheryl Sandberg
-"If you’re not embarrassed by the first version of your product, you’ve launched too late." – Reid Hoffman
-"Make it simple, but significant." – Don Draper (Matthew Weiner)
-"The best way to get started is to quit talking and begin doing." – Walt Disney
-"Efficiency is doing things right; effectiveness is doing the right things." – Peter Drucker
-"Nothing is particularly hard if you divide it into small jobs." – Henry Ford
-"Work gives you meaning and purpose, and life is empty without it." – Stephen Hawking
-"Luck is what happens when preparation meets opportunity." – Seneca
-"Hard work beats talent when talent doesn’t work hard." – Tim Notke
-"The secret of getting things done is acting." – Dante Alighieri
-"The way to get started is to stop talking and start doing." – Walt Disney
-"Success usually comes to those who are too busy to be looking for it." – Henry David Thoreau
-"Don’t confuse activity with productivity." – Tim Ferriss
-"If you want to make an easy job seem mighty hard, just keep putting off doing it." – Olin Miller
-"Perseverance is failing nineteen times and succeeding the twentieth." – Julie Andrews
-"You don’t have to see the whole staircase, just take the first step." – Martin Luther King Jr.
-"The best preparation for tomorrow is doing your best today." – H. Jackson Brown Jr.
-"Problems are not stop signs, they are guidelines." – Robert H. Schuller
-"Work smarter, not harder." – Allen F. Morgenstern
-"Action is the foundational key to all success." – Pablo Picasso
-"The difference between ordinary and extraordinary is that little extra." – Jimmy Johnson
-"Focus on being productive instead of busy." – Tim Ferriss
-"Success is the sum of small efforts repeated day in and day out." – Robert Collier
-"Whether you think you can or you think you can’t, you’re right." – Henry Ford
-"You miss 100 percent of the shots you don’t take." – Wayne Gretzky
-"If opportunity doesn’t knock, build a door." – Milton Berle
-"Good ideas are common — what’s uncommon are people who’ll work hard enough to bring them about." – Ashleigh Brilliant
-"The only place where success comes before work is in the dictionary." – Vidal Sassoon
-"Don’t watch the clock; do what it does. Keep going." – Sam Levenson
-"A goal is a dream with a deadline." – Napoleon Hill
-"Small deeds done are better than great deeds planned." – Peter Marshall
-"Make each day your masterpiece." – John Wooden
-"Success is walking from failure to failure with no loss of enthusiasm." – Winston Churchill
-"It always seems impossible until it’s done." – Nelson Mandela
-"The harder I work, the luckier I get." – Gary Player
-"Start where you are. Use what you have. Do what you can." – Arthur Ashe
-"Opportunity is missed by most people because it is dressed in overalls and looks like work." – Thomas Edison
-"Motivation is what gets you started. Habit is what keeps you going." – Jim Ryun
-"Do what you can, with what you have, where you are." – Theodore Roosevelt
-"Quality means doing it right when no one is looking." – Henry Ford
-"The secret to productivity is knowing what not to do." – Steve Jobs
-"Success is getting what you want; happiness is wanting what you get." – Dale Carnegie
-"Do the best you can until you know better. Then when you know better, do better." – Maya Angelou
-"The man who moves a mountain begins by carrying away small stones." – Confucius
-"An ounce of action is worth a ton of theory." – Friedrich Engels
-"The best way to predict the future is to invent it." – Alan Kay
-"Without hard work, nothing grows but weeds." – Gordon B. Hinckley
-"Start small, think big, move fast." – Reid Hoffman
-"If you spend too much time thinking about a thing, you’ll never get it done." – Bruce Lee
-"The only limit to our realisation of tomorrow is our doubts of today." – Franklin D. Roosevelt
-"Don’t wait. The time will never be just right." – Napoleon Hill
-"Great things are done by a series of small things brought together." – Vincent van Gogh
-"Success is not final; failure is not fatal: it is the courage to continue that counts." – Winston Churchill
-"To improve is to change; to be perfect is to change often." – Winston Churchill
-"Well done is better than well said." – Benjamin Franklin
-"Energy and persistence conquer all things." – Benjamin Franklin
-"The most effective way to do it, is to do it." – Amelia Earhart
-"Working hard for something we don’t care about is called stress; working hard for something we love is called passion." – Simon
-"The best way to get something done is to begin." – Unknown (often attributed to Goethe)
-"Work hard, be kind, and amazing things will happen." – Conan O’Brien
-"If you cannot do great things, do small things in a great way." – Napoleon Hill
-"Productivity is being able to do things that you were never able to do before." – Franz Kafka
-"Nothing will work unless you do." – Maya Angelou
-"The road to success is always under construction." – Lily Tomlin
-"Success is a lousy teacher. It seduces smart people into thinking they can’t lose." – Bill Gates
-"Work like there is someone working 24 hours a day to take it away from you." – Mark Cuban
-"I’m a great believer in luck, and I find the harder I work, the more I have of it." – Thomas Jefferson
-"The best motivation is self-motivation." – Bill Gates
-"Don’t let perfection become procrastination." – Harriet Braiker
-"The future depends on what you do today." – Mahatma Gandhi
-"An idea that is developed and put into action is more important than an idea that exists only as an idea." – Edward de Bono
-"Working hard is important. But there is something that matters even more: believing in yourself." – Harry Potter (J.K. Rowling)
-"Do not wait; the time will never be ‘just right’." – Napoleon Hill
-"If you’re going through hell, keep going." – Winston Churchill
-"Be so good they can’t ignore you." – Steve Martin
-"The way to get things done is to simply begin." – Unknown
-"Fall seven times, stand up eight." – Japanese Proverb
-"You don’t learn to walk by following rules. You learn by doing." – Richard Branson
-"Action expresses priorities." – Mahatma Gandhi
-"The only place where success comes before work is in the dictionary." – Vidal Sassoon
-"Plans are only good intentions unless they immediately degenerate into hard work." – Peter Drucker
-"Don’t wait for opportunity. Create it." – George Bernard Shaw
-"The reward for work well done is the opportunity to do more." – Jonas Salk
-"Success is not about ideas. It’s about making ideas happen." – Scott Belsky
-"Start by doing what’s necessary; then do what’s possible; and suddenly you are doing the impossible." – Francis of Assisi
-"The most difficult thing is the decision to act, the rest is merely tenacity." – Amelia Earhart
-"Work gives you dignity and self-respect." – Mahatma Gandhi
-"Success is built sequentially. It’s one thing at a time." – Gary Keller
-"You don’t have to be great to start, but you have to start to be great." – Zig Ziglar
-"Do not be embarrassed by your failures, learn from them and start again." – Richard Branson
-"The secret of success is to do the common thing uncommonly well." – John D. Rockefeller Jr.
-"Action is the antidote to fear." – Joan Baez
-"Success is the sum of small efforts repeated day in and day out." – Robert Collier
-"The harder the conflict, the greater the triumph." – George Washington
-"Great acts are made up of small deeds." – Lao Tzu
-"If you want to go fast, go alone. If you want to go far, go together." – African Proverb
-"Do what you love and success will follow." – Oprah Winfrey
-"Success is how high you bounce when you hit bottom." – George S. Patton
-"Dream big. Start small. Act now." – Robin Sharma
-"The best way to appreciate your job is to imagine yourself without one." – Oscar Wilde
-"Nothing splendid has ever been achieved except by those who dared believe something inside them was superior to circumstance." – Bruce Barton
-"Success is the result of preparation, hard work, and learning from failure." – Colin Powell
-"Well done is better than well said." – Benjamin Franklin
+“Discipline is the bridge between goals and accomplishment.” – Jim Rohn
+“Good systems beat heroic effort.” – Burnt Out Once
+“Success is the progressive realisation of a worthy goal.” – Earl Nightingale
+“Focus beats frenzy.” – Someone Calm
+“The secret of getting ahead is getting started.” – Mark Twain
+“Success is built sequentially. It’s one thing at a time.” – Gary Keller
+“Quality is not an act, it is a habit.” – Aristotle
+“Don’t watch the clock; do what it does. Keep going.” – Sam Levenson
+“Clear beats clever.” – Every Debugger Ever
+“Success usually comes to those who are too busy to be looking for it.” – Henry David Thoreau
+“Consistency compounds quietly.” – The Maths of Life
+“The man who moves a mountain begins by carrying away small stones.” – Confucius
+“Reliability matters more than brilliance.” – Operations
+“Action is the foundational key to all success.” – Pablo Picasso
+“Success is earned, never given.” – Unknown
+“You don’t have to solve everything today.” – Future You
+“Fall seven times and stand up eight.” – Japanese Proverb
+“Good work is usually quiet.” – Experience
+“The only place where success comes before work is in the dictionary.” – Vidal Sassoon
+“Success is the sum of small efforts repeated day in and day out.” – Robert Collier
+“Make it boring and reliable.” – Operations
+“Clarity comes from doing.” – Trial and Error
+“You don’t have to be great to start, but you have to start to be great.” – Zig Ziglar
+“Focus on being productive instead of busy.” – Tim Ferriss
+“Work at a pace you can repeat.” – Future Sanity
+“Success is not final, failure is not fatal: it is the courage to continue that counts.” – Winston Churchill
+“Effective work is often unremarkable.” – Reality
+“The difference between ordinary and extraordinary is that little extra.” – Jimmy Johnson
+“Don’t be busy, be productive.” – Unknown
+“Plans are nothing; planning is everything.” – Dwight D. Eisenhower
+“Start simple and adjust.” – Version 1.0
+“Success is liking yourself, liking what you do, and liking how you do it.” – Maya Angelou
+“Progress rarely looks impressive.” – Reality
+“Do not wait; the time will never be ‘just right’.” – Napoleon Hill
+“Good decisions age well.” – Time
+“Work improves when it is understood clearly.” – Practice
+“You miss 100 percent of the shots you don’t take.” – Wayne Gretzky
+“Maintenance is real work.” – Still Counts
+“The road to success is always under construction.” – Lily Tomlin
+“Understanding the problem saves time later.” – Engineering Wisdom
+“Success is walking from failure to failure with no loss of enthusiasm.” – Winston Churchill
+“Make it work first.” – Practical Wisdom
+“The best way out is always through.” – Robert Frost
+“Clarity reduces wasted effort.” – First Principles
+“Nothing is particularly hard if you divide it into small jobs.” – Henry Ford
+“Progress is made through accumulation.” – Experience
+“Don’t confuse activity with productivity.” – Tim Ferriss
+“Success is not in what you have, but who you are.” – Bo Bennett
+“Structure reduces stress.” – The To-Do List
+“Achievement seems to be connected with action.” – Conrad Hilton
+“Progress happens quietly.” – No Announcements Needed
+“The essence of strategy is choosing what not to do.” – Michael Porter
+“Success demands singleness of purpose.” – Vince Lombardi
+“Reliable habits beat bursts.” – Monday Morning
+“Good work respects constraints.” – Engineering
+“You can pause without quitting.” – Common Sense
+“Work expands so as to fill the time available for its completion.” – C. Northcote Parkinson
+“Success is never owned; it is rented, and the rent is due every day.” – Rory Vaden
+“Clear priorities simplify decisions.” – Management
+“The best way to predict the future is to create it.” – Peter Drucker
+“Some progress is better than none.” – Arithmetic
+“Don’t wish it were easier; wish you were better.” – Jim Rohn
+“Success is a journey, not a destination.” – Arthur Ashe
+“Work that lasts is built carefully.” – Craft
+“Progress depends on follow-through.” – Practice
+“Energy and persistence conquer all things.” – Benjamin Franklin
+“Calm progress lasts longer.” – Experience
+“Success is built on preparation, persistence, and passion.” – Unknown
+“Good outcomes reflect good process.” – Observation
+“Do less, better.” – Sensible Advice
+“Success comes down to knowing your priorities and protecting them.” – Unknown
+“Clear communication prevents unnecessary work.” – Management
+“Success is doing what you love and loving what you do.” – Unknown
+“Clarity reduces unnecessary work.” – Fewer Meetings
+“Success is found in your daily routine.” – John C. Maxwell
+“Make today slightly better.” – Marginal Gains
+“Success is simple. Do what’s right, the right way, at the right time.” – Arnold H. Glasow
+“Good work often involves revision.” – Craft
+“Success is the reward for perseverance.” – Sophocles
