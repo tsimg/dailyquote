@@ -77,3 +77,100 @@
 “Success is simple. Do what’s right, the right way, at the right time.” – Arnold H. Glasow
 “Good work often involves revision.” – Craft
 “Success is the reward for perseverance.” – Sophocles
+"Ever tried. Ever failed. No matter. Try again. Fail again. Fail better." – Samuel Beckett
+"If you’re going through changes, keep the useful parts." – Practical Philosopher
+"The main thing is to keep the main thing the main thing." – Stephen R. Covey
+"Real artists ship." – Steve Jobs
+"Work is easier when it has edges." – Boundary Setter
+"A calendar is a values document." – Timekeeper
+"Nothing great is created suddenly." – Epictetus
+"Decide what ‘done’ means before you start." – The Scope Police
+"Measure twice, cut once." – Old Hand
+"If you don’t know where you’re going, you might end up someplace else." – Yogi Berra
+"Creativity is allowing yourself to make mistakes. Art is knowing which ones to keep." – Scott Adams
+"Make the work visible." – Kanban Ghost
+"Slow is smooth, smooth is fast." – The Workshop Foreman
+"Your inbox is not your job." – The Email Therapist
+"The best way to have a good idea is to have a lot of ideas." – Linus Pauling
+"Busy is not a badge." – The Quiet Achiever
+"The only real mistake is the one from which we learn nothing." – Henry Ford
+"Make decisions at the lowest sensible level." – Sensible Org Chart
+"Write it down, or it didn’t happen." – The Meeting Minutes
+"Beware of false urgency." – The Deadline Whisperer
+"If you can’t explain it to a six-year-old, you don’t understand it yourself." – Albert Einstein
+"Work is what happens when you stop scrolling." – Thumb Discipline
+"A good plan today beats a perfect plan never." – The Planner’s Regret
+"Do it now, or schedule it." – The Taskmaster
+"Everything is hard before it is easy." – Goethe
+"Don’t mistake motion for progress." – The Treadmill
+"Your first draft is allowed to be bad." – Anne Lamott
+"Perfect is the enemy of shipped." – Release Engineer
+"Reduce the problem until it fits in your head." – Systems Thinker
+"Quality is remembered long after price is forgotten." – Gucci Family Lore
+"Make the next step obvious." – The Trail Marker
+"The work will teach you what it needs." – Craftsperson
+"Start with the constraints; they’re the real brief." – Engineer-in-Chief
+"It’s not the critic who counts." – Theodore Roosevelt
+"Don’t solve the wrong problem efficiently." – The Cautionary Tale
+"Process is what you do when you don’t have time to think." – The Process Nerd
+"A meeting is a tool. Use it like one." – The Reluctant Attendee
+"Good work is boring in the best way." – Maintenance Mode
+"Two minutes of planning saves twenty minutes of fixing." – The Fixer
+"Your future self deserves fewer surprises." – Sensible You
+"Make it readable before you make it clever." – The Code Reviewer
+"Nothing is as urgent as a forgotten task." – The Reminder App
+"Pick a lane, then pick a speed." – Project Driver
+"Under pressure, defaults win." – Human Factors
+"Clean work is kind work." – The Teammate
+"Don’t optimise what you haven’t stabilised." – Reliability Gremlin
+"The simplest workable version counts." – Version 0.1
+"Tools should reduce friction, not add steps." – Toolsmith
+"Your notes are your second brain." – The Notebook
+"A good checklist is worth a good memory." – Aviation Wisdom
+"Make it easy to do the right thing." – Behavioural Designer
+"Spend effort where it changes outcomes." – The Prioritiser
+"Better a short list you finish than a long list you fear." – The To-Do Whisperer
+"Most fires start as small sparks." – Risk Register
+"People remember how you communicate under stress." – The Calm Lead
+"If it’s important, make it repeatable." – Systems Builder
+"The cheapest bug is the one you never write." – The Curmudgeon
+"Choose clarity over certainty." – Decision Maker
+"Stop starting; start finishing." – The Finisher
+"A small fix today prevents a big fix later." – The Preventer
+"Working code beats clever slides." – Demo Day
+"Don’t let the exception design the whole system." – The Architect
+"Constraints create the shape of the solution." – The Brief
+"Refactor your life like you refactor your code." – The Pragmatist
+"You can’t improve what you won’t look at." – The Mirror
+"Make the invisible visible." – The Analyst
+"If it’s worth doing, it’s worth documenting." – The Future Maintainer
+"Fewer priorities, better outcomes." – The Focused One
+"Every system is perfectly designed to get the results it gets." – W. Edwards Deming
+"If you are not early, you are late." – The Logistics Goblin
+"A good decision now beats a great decision too late." – The Clock
+"Work that scales is usually dull." – The Infrastructure Team
+"Clarify ownership before clarifying opinions." – The Organiser
+"Assumptions are invisible requirements." – The Skeptic
+"Make it testable, then trustable." – QA Spirit
+"Silence is rarely a plan." – The Project Board
+"Do the hard thinking once, then reuse it." – Template Enjoyer
+"Time spent aligning saves time spent correcting." – The Coordinator
+"Meetings should end with names and dates." – Action Item Oracle
+"Don’t break what you can’t quickly fix." – On-Call Wisdom
+"A smooth handoff beats a heroic save." – The Relay Team
+"Check the simplest cause first." – The Troubleshooter
+"Work is easier when roles are clear." – The Org Whisperer
+"Make failure safe, not frequent." – The Pragmatic Optimist
+"Less rework is the real productivity." – The Accountant of Time
+"Keep decisions close to the work." – The Delegator
+"If it matters, write a runbook." – The Pager
+"Don’t store knowledge in one person’s head." – The Bus Factor
+"Great work looks like small choices made consistently." – The Long View
+"Make your default a draft." – The Writer
+"Make the system resilient to a bad day." – The Human
+"You don’t rise to the occasion; you fall to your training." – Archilochus
+"Don’t fear the boring solution." – The Reliable One
+"It takes less time to do a thing right than to explain why you did it wrong." – Henry Wadsworth Longfellow
+"I have not failed. I’ve just found 10,000 ways that won’t work." – Thomas Edison
+"Be stubborn on vision, flexible on details." – The Product Old-Timer
+"Work is never finished, only abandoned." – Leonardo da Vinci
